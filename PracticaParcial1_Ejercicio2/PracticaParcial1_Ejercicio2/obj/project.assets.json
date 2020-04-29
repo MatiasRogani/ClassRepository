@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Source\\Repos\\ClassRepository\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2.csproj",
       "projectName": "PracticaParcial1_Ejercicio2",
-      "projectPath": "C:\\Users\\pablo\\source\\repos\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2.csproj",
+      "projectPath": "C:\\Users\\pablo\\Source\\Repos\\ClassRepository\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\source\\repos\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Source\\Repos\\ClassRepository\\PracticaParcial1_Ejercicio2\\PracticaParcial1_Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
